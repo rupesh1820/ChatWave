@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+
+
+body {
+  margin: 0;
+  display: flex;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+ 
+  background: hsl(206, 28%, 21%);
+  /* background: #183d53; */
+}
+
+
