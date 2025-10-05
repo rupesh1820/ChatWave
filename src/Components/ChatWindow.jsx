@@ -1,7 +1,7 @@
 import OptionMenu from "./OptionMenu"
 import ChatWave from "./ChatWave"
 import ChatWindowSection from "./ChatWindowSection"
-import MobileMenu from "./mobileMenu"
+import MobileMenu from "./MobileMenu"
 const ChatWindow = () => {
   return (
     <div className="p-0 m-0">
