@@ -5,7 +5,7 @@ import {Users} from "../Utils/User.js"
 const ChatWave = () => {
   
   return (
-    <div className=" mx-5 min-h-screen w-[400px] sm:w-[765px] md:w-115 px-4 py-3 ">
+    <div className=" min-h-screen w-[400px] sm:w-[765px] md:w-115 px-2 py-3 ">
       <div className="flex items-center justify-between">
         {/* Left Side: Title */}
         <h1 className="text-2xl font-semibold text-white ">ChatWave</h1>
